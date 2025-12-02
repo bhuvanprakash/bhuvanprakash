@@ -1,6 +1,6 @@
 
 
-# 💫 About Me:
+# About Me:
 I'm Bhuvan Prakash, a self-taught developer and researcher currently working on:<br><br>An AI architecture (MIRAE series) focused on energy-efficient learning<br><br>A lightweight, scalable quantum computing prototype using photonic crystals<br><br>A fine-tuning platform inspired by Hugging Face<br><br>exploring time, consciousness, and human emotion.<br>Building an AI for Trishul Space TVC.<br>Interested in AI, quantum systems, mathematical structure.<br>Exploring the edges where science meets philosophy.
 
 
